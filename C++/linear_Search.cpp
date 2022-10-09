@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int linearSearch(int arr[], int N, int x)
+int linearSearch(int arr[], int N, int x)// This function is used for searching the element.
 {
 	int i;
 	for(i=0;i<N;i++)
