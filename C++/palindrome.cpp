@@ -1,3 +1,4 @@
+//The program checks whether the given number is palindrome or not.
 #include<bits/stdc++.h>
 
 using namespace std;
