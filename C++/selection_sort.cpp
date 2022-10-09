@@ -23,7 +23,7 @@ void selectionSort(int arr[], int n)
 	}
 }
 
-void printArray(int arr[], int size)
+void printArray(int arr[], int size)//This function is used to print the array
 {
 	int i;
 	for (i=0; i < size; i++)
