@@ -1,3 +1,4 @@
+//This code is used to reverse the string.
 #include<bits/stdc++.h>
 
 using namespace std;
