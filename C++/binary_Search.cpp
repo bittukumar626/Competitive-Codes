@@ -1,4 +1,4 @@
-//this is binary search
+//This is binary search
 #include <bits/stdc++.h>
 using namespace std;
 int binarySearch(int arr[], int l, int r, int x)
@@ -14,7 +14,7 @@ int binarySearch(int arr[], int l, int r, int x)
 	}
 	return -1;
 }
-
+//Main Method
 int main(void)
 {
 	int arr[] = { 6,10,29,74,116,774 };
