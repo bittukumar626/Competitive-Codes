@@ -11,4 +11,4 @@ for i in range(len(A)):
 
 print ("Sorted array")
 for i in range(len(A)):
-	print("%d" %A[i],end=" ")
+	print("%d" %A[i],end=" ") #Printing Elements of the Sorted List
