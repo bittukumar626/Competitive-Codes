@@ -1,3 +1,4 @@
+//Linear Search
 #include<bits/stdc++.h>
 using namespace std;
 int linearSearch(int arr[], int N, int x)// This function is used for searching the element.
