@@ -8,7 +8,7 @@ void swap(int *xp, int *yp)
 	*xp = *yp;
 	*yp = temp;
 }
-
+//Selection Sort
 void selectionSort(int arr[], int n)
 {
 	for (int i = 0; i < n-1; i++)
