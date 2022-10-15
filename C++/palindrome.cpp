@@ -9,6 +9,7 @@ int main()
     cin>>s;
     string k=s;
     reverse(k.begin(),k.end());
+    //Checking Whether the reverse and the original number are same or not.
     if(s==k)
      cout<<"Palindrome string"<<endl;
     else
