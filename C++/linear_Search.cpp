@@ -1,5 +1,5 @@
-//Linear Search
-#include<bits/stdc++.h>
+//Linear Search 
+#include<bits/stdc++.h> //Header File
 using namespace std;
 int linearSearch(int arr[], int N, int x)// This function is used for searching the element.
 {
@@ -16,7 +16,7 @@ int linearSearch(int arr[], int N, int x)// This function is used for searching 
 }
 int main()
 {
-	int arr[]={4, 3, 8, 9, 15, 10, 13};
+	int arr[]={4, 3, 8, 9, 15, 10, 13}; //Initilizing Array
 	int x=15;
 	int N=sizeof(arr)/sizeof(arr[0]);
 	int result = linearSearch(arr, N, x);
