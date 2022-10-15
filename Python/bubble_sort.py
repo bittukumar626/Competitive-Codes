@@ -13,8 +13,10 @@ def bubbleSort(arr):
 		if not swapped:
 			return
 
+#Initializing List
 arr = [102,6,74,50,64,98,47,63,112]
 bubbleSort(arr)
 print("Sorted array is:")
+#Printing the Array
 for i in range(len(arr)):
 	print("% d" % arr[i], end=" ")
