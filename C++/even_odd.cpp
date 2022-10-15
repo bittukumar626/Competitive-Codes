@@ -1,3 +1,4 @@
+//program to check whether a no. is even or odd
 #include<bits/stdc++.h>
 
 using namespace std;
